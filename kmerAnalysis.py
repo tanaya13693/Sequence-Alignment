@@ -2,9 +2,15 @@
 
 def kmer_list(dna, k):
     result = []
-    for x in range(len(dna)+1-k):
+    for x in range(len(dna)+1-k):  #lood for distribution with sliding
         result.append(dna[x:x+k])
     return result
+
+
+#while x<(len(dna) - len(dna)%k):  #loop for distribution w/o sliding
+#        result.append(dna[x:x+k])       
+#        x = x+k
+#    return result
 
 from Bio import SeqIO
 
