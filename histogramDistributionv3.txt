@@ -1,0 +1,191 @@
+('Hisogram distribution of: ', 8, '-mer')
+('Size of string = ', 222388987)
+('Total kmers', 27798624.0)
+('Total kmer computations', 772763496293376.0)
+('Number of unique kmers', 66876)
+
+('Number of unique kmers (50 percent)', 33438)
+('Number of non-unique kmers (50 percent)', 24291749)
+('Total 50 percent kmer compuation', 590089069479001)
+('ratio of nonUniqueKmer50 computation to totalKmerComputation ', 0.76360888203106381)
+
+('Number of unique kmers (90 percent)', 60189)
+('Number of non-unique kmers (90 percent)', 27694653)
+('Total 90 percent kmer compuation', 766993804790409)
+('ratio of nonUniqueKmer90 computation to totalKmerComputation ', 0.99253369041027195)
+
+
+
+
+('Hisogram distribution of: ', 24, '-mer')
+('Size of string = ', 222388987)
+('Total kmers', 9266208.0)
+('Total kmer computations', 85862610699264.0)
+('Number of unique kmers', 8562431)
+
+('Number of unique kmers (50 percent)', 4281216)
+('Number of non-unique kmers (50 percent)', 4984993)
+('Total 50 percent kmer compuation', 24850155210049)
+('ratio of nonUniqueKmer50 computation to totalKmerComputation ', 0.28941765231303423)
+
+('Number of unique kmers (90 percent)', 7706188)
+('Number of non-unique kmers (90 percent)', 8409965)
+('Total 90 percent kmer compuation', 70727511301225)
+('ratio of nonUniqueKmer90 computation to totalKmerComputation ', 0.8237288701708585)
+
+
+
+
+('Hisogram distribution of: ', 32, '-mer')
+('Size of string = ', 222388987)
+('Total kmers', 6949656.0)
+('Total kmer computations', 48297718518336.0)
+('Number of unique kmers', 6613192)
+
+('Number of unique kmers (50 percent)', 3306596)
+('Number of non-unique kmers (50 percent)', 3643060)
+('Total 50 percent kmer compuation', 13271886163600)
+('ratio of nonUniqueKmer50 computation to totalKmerComputation ', 0.27479323186997728)
+
+('Number of unique kmers (90 percent)', 5951873)
+('Number of non-unique kmers (90 percent)', 6288337)
+('Total 90 percent kmer compuation', 39543182225569)
+('ratio of nonUniqueKmer90 computation to totalKmerComputation ', 0.81873809858237134)
+
+
+
+
+('Hisogram distribution of: ', 40, '-mer')
+('Size of string = ', 222388987)
+('Total kmers', 5559725.0)
+('Total kmer computations', 30910542075625.0)
+('Number of unique kmers', 5366556)
+
+('Number of unique kmers (50 percent)', 2683278)
+('Number of non-unique kmers (50 percent)', 2876447)
+('Total 50 percent kmer compuation', 8273947343809)
+('ratio of nonUniqueKmer50 computation to totalKmerComputation ', 0.2676739645511928)
+
+('Number of unique kmers (90 percent)', 4829901)
+('Number of non-unique kmers (90 percent)', 5023070)
+('Total 90 percent kmer compuation', 25231232224900)
+('ratio of nonUniqueKmer90 computation to totalKmerComputation ', 0.81626624868531472)
+
+
+
+
+('Hisogram distribution of: ', 48, '-mer')
+('Size of string = ', 222388987)
+('Total kmers', 4633104.0)
+('Total kmer computations', 21465652674816.0)
+('Number of unique kmers', 4502437)
+
+('Number of unique kmers (50 percent)', 2251219)
+('Number of non-unique kmers (50 percent)', 2381886)
+('Total 50 percent kmer compuation', 5673380916996)
+('ratio of nonUniqueKmer50 computation to totalKmerComputation ', 0.26430041531661141)
+
+('Number of unique kmers (90 percent)', 4052194)
+('Number of non-unique kmers (90 percent)', 4182861)
+('Total 90 percent kmer compuation', 17496326145321)
+('ratio of nonUniqueKmer90 computation to totalKmerComputation ', 0.81508475005971259)
+
+
+
+
+('Hisogram distribution of: ', 56, '-mer')
+('Size of string = ', 222388987)
+('Total kmers', 3971232.0)
+('Total kmer computations', 15770683597824.0)
+('Number of unique kmers', 3870751)
+
+('Number of unique kmers (50 percent)', 1935376)
+('Number of non-unique kmers (50 percent)', 2035857)
+('Total 50 percent kmer compuation', 4144713724449)
+('ratio of nonUniqueKmer50 computation to totalKmerComputation ', 0.26281129151693067)
+
+('Number of unique kmers (90 percent)', 3483676)
+('Number of non-unique kmers (90 percent)', 3584157)
+('Total 90 percent kmer compuation', 12846181400649)
+('ratio of nonUniqueKmer90 computation to totalKmerComputation ', 0.81456084772517312)
+
+
+
+
+('Hisogram distribution of: ', 64, '-mer')
+('Size of string = ', 222388987)
+('Total kmers', 3474828.0)
+('Total kmer computations', 12074429629584.0)
+('Number of unique kmers', 3391529)
+
+('Number of unique kmers (50 percent)', 1695765)
+('Number of non-unique kmers (50 percent)', 1779064)
+('Total 50 percent kmer compuation', 3165068716096)
+('ratio of nonUniqueKmer50 computation to totalKmerComputation ', 0.26212987388995584)
+
+('Number of unique kmers (90 percent)', 3052377)
+('Number of non-unique kmers (90 percent)', 3135676)
+('Total 90 percent kmer compuation', 9832463976976)
+('ratio of nonUniqueKmer90 computation to totalKmerComputation ', 0.81432119599961239)
+
+
+
+
+('Hisogram distribution of: ', 12, '-mer')
+('Size of string = ', 222388987)
+('Total kmers', 18532416.0)
+('Total kmer computations', 343450442797056.0)
+('Number of unique kmers', 6988685)
+
+('Number of unique kmers (50 percent)', 3494343)
+('Number of non-unique kmers (50 percent)', 14804062)
+('Total 50 percent kmer compuation', 219160251699844)
+('ratio of nonUniqueKmer50 computation to totalKmerComputation ', 0.6381131726458283)
+
+('Number of unique kmers (90 percent)', 6289817)
+('Number of non-unique kmers (90 percent)', 17833548)
+('Total 90 percent kmer compuation', 318035434268304)
+('ratio of nonUniqueKmer90 computation to totalKmerComputation ', 0.9260009440611795)
+
+
+
+
+
+('Hisogram distribution of: ', 20, '-mer')
+('Size of string = ', 222388987)
+('Total kmers', 11119450.0)
+('Total kmer computations', 123642168302500.0)
+('Number of unique kmers', 10021105)
+
+('Number of unique kmers (50 percent)', 5010553)
+('Number of non-unique kmers (50 percent)', 6108898)
+('Total 50 percent kmer compuation', 37318634774404)
+('ratio of nonUniqueKmer50 computation to totalKmerComputation ', 0.3018277282480287)
+
+('Number of unique kmers (90 percent)', 9018995)
+('Number of non-unique kmers (90 percent)', 10117340)
+('Total 90 percent kmer compuation', 102360568675600)
+('ratio of nonUniqueKmer90 computation to totalKmerComputation ', 0.8278774958488844)
+
+
+
+
+('Hisogram distribution of: ', 18, '-mer')
+('Size of string = ', 222388987)
+('Total kmers', 12354944.0)
+('Total kmer computations', 152644641243136.0)
+('Number of unique kmers', 10941134)
+
+('Number of unique kmers (50 percent)', 5470567)
+('Number of non-unique kmers (50 percent)', 6884377)
+('Total 50 percent kmer compuation', 47394646678129)
+('ratio of nonUniqueKmer50 computation to totalKmerComputation ', 0.31049007873547085)
+
+('Number of unique kmers (90 percent)', 9847021)
+('Number of non-unique kmers (90 percent)', 11260831)
+('Total 90 percent kmer compuation', 126806314810561)
+('ratio of nonUniqueKmer90 computation to totalKmerComputation ', 0.8307288993432852)
+
+
+
+
